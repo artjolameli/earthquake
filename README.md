@@ -1,5 +1,9 @@
 # Methodology for Analyzing Earthquake Data
 
+Project Links:
+Live Site:  https://wax-toothsome-cardamom.glitch.me
+Code:  https://glitch.com/edit/#!/wax-toothsome-cardamom
+
 ## Introduction
 
 The domain we have chosen for our final project is Geospatial Data Analysis which invloves events with the location on the earth surface.
